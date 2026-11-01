@@ -1,0 +1,129 @@
+{
+  "contributor": {
+    "name": "Test Contributor",
+    "email": "test@example.org",
+    "affiliation": "University of Bern",
+    "orcid": ""
+  },
+  "licence": "yes",
+  "publication": {
+    "first_author": "Fake",
+    "et_al": true,
+    "year": "2026",
+    "doi_article": "10.5194/fake-2026",
+    "doi_dataset": "https://doi.pangaea.de/10.1594/PANGAEA.957176"
+  },
+  "survey": {
+    "institutes": [
+      "UTIG",
+      "UA"
+    ],
+    "projects": [
+      "BE-OI"
+    ],
+    "radar_instruments": [
+      "HICARS",
+      "LDC-VHF"
+    ],
+    "acquisition_year": "2019"
+  },
+  "layers": [
+    {
+      "irh": 1,
+      "age": 73300.0,
+      "age_unc": 2420.0
+    },
+    {
+      "irh": 2,
+      "age": 84300.0,
+      "age_unc": 2020.0
+    },
+    {
+      "irh": 3,
+      "age": 90000.0,
+      "age_unc": 2160.0
+    },
+    {
+      "irh": 4,
+      "age": 96500.0,
+      "age_unc": 2300.0
+    },
+    {
+      "irh": 5,
+      "age": 113000.0,
+      "age_unc": 2670.0
+    },
+    {
+      "irh": 6,
+      "age": 121000.0,
+      "age_unc": 2220.0
+    },
+    {
+      "irh": 7,
+      "age": 132000.0,
+      "age_unc": 2970.0
+    },
+    {
+      "irh": 8,
+      "age": 160000.0,
+      "age_unc": 5800.0
+    },
+    {
+      "irh": 9,
+      "age": 179000.0,
+      "age_unc": 5510.0
+    },
+    {
+      "irh": 10,
+      "age": 203000.0,
+      "age_unc": 4650.0
+    },
+    {
+      "irh": 11,
+      "age": 215000.0,
+      "age_unc": 4500.0
+    },
+    {
+      "irh": 12,
+      "age": 239000.0,
+      "age_unc": 5470.0
+    },
+    {
+      "irh": 13,
+      "age": 243000.0,
+      "age_unc": 5140.0
+    },
+    {
+      "irh": 14,
+      "age": 304000.0,
+      "age_unc": 10800.0
+    },
+    {
+      "irh": 15,
+      "age": 320000.0,
+      "age_unc": 10500.0
+    },
+    {
+      "irh": 16,
+      "age": 336000.0,
+      "age_unc": 9400.0
+    },
+    {
+      "irh": 17,
+      "age": 365000.0,
+      "age_unc": 16200.0
+    },
+    {
+      "irh": 18,
+      "age": 396000.0,
+      "age_unc": 13100.0
+    },
+    {
+      "irh": 19,
+      "age": 473000.0,
+      "age_unc": 28300.0
+    }
+  ],
+  "nodata": "-9999",
+  "notes": "Fake submission made from Chung_2023 by portal/dev/make_fake_data.py"
+}
