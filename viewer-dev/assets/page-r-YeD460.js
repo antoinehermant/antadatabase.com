@@ -1,0 +1,1 @@
+import{n as e}from"./theme-Cf9fWVna.js";e(document.querySelector(`#theme-toggle`));var t=!1;for(let e of document.querySelectorAll(`[data-portal]`))e.hidden=e.dataset.portal===`open`!==t;
